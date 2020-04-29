@@ -1,4 +1,3 @@
-
 [Serve static files from docker via nginx](https://www.linkedin.com/pulse/serve-static-files-from-docker-via-nginx-basic-example-arun-kumar/)
 
 sudo docker build -t file-server .
